@@ -6,7 +6,7 @@
  * @format: format of characters
  * @...: variable arguments
  *
- * Return: number of characters
+ * Return: the character number
  */
 
 int _printf(const char *format, ...)
